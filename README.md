@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of dashzeveg/flarum-meta-tags.** Not for installation: use [Packagist](https://packagist.org/packages/dashzeveg/flarum-meta-tags) or the [upstream repository](https://github.com/dashzeveg/flarum-meta-tags).
 
-**0** versions archived · Latest: [`v1.1`](https://github.com/flarchive/dashzeveg-flarum-meta-tags/tree/archive/v1.1) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`v1.1`](https://github.com/flarchive/dashzeveg-flarum-meta-tags/tree/archive/v1.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2026-04-09 | `^2.0` | [Browse](https://github.com/flarchive/dashzeveg-flarum-meta-tags/tree/archive/v1.0) |
+| `v1.1` | 2026-04-11 | `^2.0` | [Browse](https://github.com/flarchive/dashzeveg-flarum-meta-tags/tree/archive/v1.1) |
 
 Catalog entry: [packages/dashzeveg-flarum-meta-tags.json](https://github.com/flarchive/archive-index/blob/main/packages/dashzeveg-flarum-meta-tags.json)
 
